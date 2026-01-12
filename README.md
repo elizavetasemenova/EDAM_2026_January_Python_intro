@@ -5,6 +5,7 @@ Materials for the Python intro course. Everything runs in Google Colab.
 ## Authors and facilitator
 
 **Authors**: Elizaveta Semenova, Tristan Naidoo 
+
 **Facilitator**: Tristan Naidoo
 
 ## Notebooks
